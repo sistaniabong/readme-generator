@@ -12,7 +12,7 @@
 ## Description
 --------------
 README-generator is a command-line application application that allows user to input information to dynamicallly generate a README file.
-This app runs on terminal and is powered by node.js, jQuery, and Javascript. The generated file will be titled generatedREADME.md.
+This app runs on terminal and is powered by node.js, jQuery, and Javascript. The generated README.md file will be under example folder.
 
 The following GIF displays the app's functionality:
 
