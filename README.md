@@ -2,8 +2,7 @@
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
-<img src="https://img.shields.io/badge/Javascript-yellow" />
-<img src="https://img.shields.io/badge/jQuery-blue"  />
+<img src="https://img.shields.io/badge/Javascript-yellow" /> <img src="https://img.shields.io/badge/jQuery-blue"  />
 <img src="https://img.shields.io/badge/-node.js-green" />
 <img src="https://img.shields.io/badge/-inquirer-orange" >
 <img src="https://img.shields.io/badge/-fs-orange" >
