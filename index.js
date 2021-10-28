@@ -41,7 +41,8 @@ const questions = [
             'GPL',
             'BSD',
             'Academic',
-            'Mozilla'
+            'Mozilla',
+            'None'
         ]
     },
     {
@@ -73,7 +74,7 @@ function writeToFile(fileName, data) {
 function init() {
     inquirer
         .prompt(questions)
-        .then((data) => writeToFile('generatedREADME.md',data))
+        .then((data) => writeToFile('./example/README.md',data))
 };
 
 // Function call to initialize app
